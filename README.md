@@ -159,6 +159,8 @@ X * C → Y        ; Y = 2 * 4 = 8 (00001000)
 2. **Open in LTSpice:**
 ```
    File → Open → Navigate to schematics/ → Select .asc file
+   Either Ex5_Ex_Multiplier_Working_Simplified.asc for the simplified and more visually understandable design
+   Or Ex5_Ex_Multiplier_Working.asc for the unsimplified/transistor view
 ```
 
 3. **Run simulation:**
