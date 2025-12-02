@@ -1,0 +1,22 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -96 -72 96 72
+WINDOW 0 0 -72 Bottom 2
+PIN -96 -16 LEFT 8
+PINATTR PinName I0
+PINATTR SpiceOrder 1
+PIN -96 16 LEFT 8
+PINATTR PinName I1
+PINATTR SpiceOrder 2
+PIN 96 -16 RIGHT 8
+PINATTR PinName Adder
+PINATTR SpiceOrder 3
+PIN 96 -48 RIGHT 8
+PINATTR PinName Load
+PINATTR SpiceOrder 4
+PIN 96 48 RIGHT 8
+PINATTR PinName Multiply
+PINATTR SpiceOrder 5
+PIN 96 16 RIGHT 8
+PINATTR PinName Subtract
+PINATTR SpiceOrder 6
